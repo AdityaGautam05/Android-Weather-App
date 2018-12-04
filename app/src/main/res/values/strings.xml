@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tell me the Weather!</string>
+    <string name="textview">TextView</string>
+    <string name="here">Here</string>
+    <string name="tell_me">Tell Me!</string>
+    <string name="enter_the_city">Enter the city</string>
+</resources>
